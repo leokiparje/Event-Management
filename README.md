@@ -10,7 +10,7 @@ The project has the following dependencies:
 
 ## Build and run
 
-Clone repository to a local folder and use **mvn install** inside the root folder of the repository to build all the core system JARs. With this command integration test is also runned. Now edit the config files (the database connection), in src/main/resources/application.properties, database platform, username, password and utl. To run the application use **mvn spring-boot:run**. Application should be running on port 8080 (http://localhost:8080/). Now you can test the endpoints.
+Clone repository to a local folder and use **mvn install** inside the root folder of the repository to build all the core system JARs. With this command integration test is also runned. Now edit the config files (the database connection), in src/main/resources/application.properties, database platform, username, password and url. To run the application use **mvn spring-boot:run**. Application should be running on port 8080 (http://localhost:8080/). Now you can test the endpoints.
 
 ## Implementation details
 
